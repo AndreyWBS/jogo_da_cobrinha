@@ -1,0 +1,1 @@
+var tela = window.document.querySelector('#tela')
